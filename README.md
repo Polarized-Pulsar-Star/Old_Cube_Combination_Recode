@@ -10,6 +10,7 @@ An issue list has been put in there.
 -  Icon.IconController is outdated as well. - [ ]
 -  Themes.Default is outdated. - [ ]
 -  almost every single scripts in entities require a recode, and are outdated - [ ] -- Note: Feel free to recode them. You can also rework them i guess, as long as it's not having too much difference between the original one and its.
--  Module.bullets, Module.MoveToIfValid are also outdated - [ ]
+-  Module.bullets, Module.MoveToIfValid are also outdated - [x]
+
 You can fix them if you can and want. Primarily, i'd want you to work on those before you work on the things i'm or i will work on.
 Anti-cheating is optional. You can make a pull request for the anti-cheat system, as long as it's not too long or making the code significantly slower. Mostly they should rely on the moderation team.
