@@ -6,6 +6,8 @@ This project will also be open sourced into the Modded Cube Combination after th
 
 -- Note: As for now, DataStoreSystem is far yet from completed. I'm actively recoding the current dataModule. New content and functions can be expected from the recode.
 
+-- **IMPORTANT NOTE: I heavily recommend you to <ins>NOT</ins> putting any important scripts in cilent side.**
+
 An issue list has been put in there.
 - [ ]  GravityController is outdated.
 - [ ] Icon is fucking outdated.
