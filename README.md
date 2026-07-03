@@ -4,6 +4,8 @@ This is a project related to the recode of an older version of Cube Combination,
 This project will also be open sourced into the Modded Cube Combination after the project is finished.
 -- Your name will and should be marked on an addition script by then. Tell me if i haven't.
 
+-- Note: As for now, DataStoreSystem is far yet from completed. I'm actively recoding the current dataModule. New content and functions can be expected from the recode.
+
 An issue list has been put in there.
 - [ ]  GravityController is outdated.
 - [ ] Icon is fucking outdated.
